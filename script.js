@@ -1,6 +1,5 @@
 'use strict';
 
-// document.querySelector('.message').textContent = '🥳🥳 Correct Number!';
 // #1
 // 랜덤번호 생성
 let secretNumber = Math.trunc(Math.random() * 20) + 1;
